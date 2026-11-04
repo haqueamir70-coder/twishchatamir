@@ -11,3 +11,8 @@ For demonstrable application and platform engineering work, see:
 - [Kubernetes AI Inference Platform](https://github.com/haqueamir70-coder/kubernetes-ai-inference-platform)
 
 A project should only be promoted here after its purpose, implementation, setup, validation, and security boundaries are documented.
+
+
+## Architecture and interview preparation
+
+See the [architecture diagram and interview questions](docs/README.md) for the repository-specific design walkthrough and technical interview guide.
