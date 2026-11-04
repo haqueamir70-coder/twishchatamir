@@ -73,3 +73,7 @@ Back up message data consistently, test point-in-time restore, define RPO/RTO, r
 ### 10. Answer
 
 Only the conceptual flow is documented here. Do not claim authentication, message persistence, WebSockets, notifications or deployment are implemented until code and test evidence exist.
+
+## Complete zero-to-hero guide
+
+See [ZERO-TO-HERO.md](./ZERO-TO-HERO.md) for the business scenario, architecture walkthrough, tool-by-tool explanations, implementation sequence, practical commands, troubleshooting playbook and additional scenario-based interview questions with answers.
